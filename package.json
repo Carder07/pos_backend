@@ -1,0 +1,29 @@
+{
+    "name": "pos_backend",
+    "version": "1.0.0",
+    "description": "This api server is a monletic api server\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b\u0016",
+    "main": "main_app",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon main_app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Carder07/pos_backend.git"
+    },
+    "keywords": [
+        "pos",
+        "api"
+    ],
+    "author": "courage kekeli Agbenyegah",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Carder07/pos_backend/issues"
+    },
+    "homepage": "https://github.com/Carder07/pos_backend#readme",
+    "dependencies": {
+        "express": "^4.17.3",
+        "express-validator": "^6.14.0",
+        "mongodb": "^4.5.0"
+    }
+}

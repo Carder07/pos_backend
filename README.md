@@ -1,1 +1,1 @@
-# Pint Of Seals API
+# Point Of Seals API
